@@ -133,6 +133,9 @@ amplify push
 amplify publish
 ```
 
+![2025-07-07 (20)](https://github.com/user-attachments/assets/38e089c8-0c98-4d77-b565-41a0daad2d3c)
+
+
 ## 🔧 Configuration
 
 ### Environment Variables
@@ -217,6 +220,13 @@ const headers = {
 };
 ```
 
+
+![2025-07-07 (14)](https://github.com/user-attachments/assets/728a7f2b-fc1b-42a9-b20e-a9e13363bd9f)
+
+
+
+![2025-07-07 (18)](https://github.com/user-attachments/assets/9d13a086-9d3e-4d5f-8d24-5977e7fd4eed)
+
 ## 📈 Monitoring & Logging
 
 ### AWS CloudWatch Integration
@@ -247,6 +257,10 @@ amplify push
 # Deploy only frontend changes
 amplify publish --invalidateCloudFront
 ```
+
+<img width="960" alt="2025-07-07 (5)" src="https://github.com/user-attachments/assets/ce69ac10-0553-42df-b412-e7de630a1d2e" />
+
+
 
 ### CI/CD Pipeline
 The project includes GitHub Actions workflow for automated deployments:
@@ -319,6 +333,9 @@ POST /auth/signout    - User logout
 POST /auth/verify     - Email verification
 ```
 
+![2025-07-07 (17)](https://github.com/user-attachments/assets/91f7c0b5-c8c3-4910-a75b-8af0bec19e66)
+
+
 ### Game Endpoints
 ```
 GET  /data           - Get user game data
@@ -355,6 +372,10 @@ DELETE /data/{id}    - Delete game record
 - Write tests for new features
 - Update documentation
 - Ensure AWS resources are properly configured
+
+
+![2025-07-07 (21)](https://github.com/user-attachments/assets/8a271651-356b-467a-9444-002c9e3d5cd8)
+
 
 ## 📄 License
 

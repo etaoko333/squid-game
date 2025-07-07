@@ -373,12 +373,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: [GitHub Discussions](https://github.com/etaoko333/squid-game/discussions)
 - **Email**: your.email@example.com
 
-## 🔗Contact
-
-- [Likendin]([https://docs.amplify.aws/](https://www.linkedin.com/in/osenat-alonge-84379124b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsRpr%2B%2BCgRO%2B0e4vtVZ%2FBlw%3D%3D))
-- [GitHub]([https://reactjs.org/docs](https://github.com/etaoko333/squid-game.git))
+## 🔗 Contact
+- [LinkedIn](https://www.linkedin.com/in/osenat-alonge-84379124b)
+- [GitHub](https://github.com/etaoko333/squid-game.git)
 - [Website](https://tovadelacademy.co.uk)
-- [Project Blog Post]([https://your-blog.com/squid-game-aws-deployment](https://medium.com/@osenat.alonge/aws-serverless-architecture-complete-full-stack-react-app-with-aws-amplify-cognito-api-fa1f78914649))
+- [Project Blog Post](https://medium.com/@osenat.alonge/aws-serverless-architecture-complete-full-stack-react-app-with-aws-amplify-cognito-api-fa1f78914649)
 
 ---
 

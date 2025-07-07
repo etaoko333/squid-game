@@ -1,0 +1,10 @@
+{
+  "resourceName": "squidgamedata",
+  "tableName": "squidgamedata",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

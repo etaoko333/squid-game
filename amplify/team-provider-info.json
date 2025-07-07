@@ -1,0 +1,36 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-squidgamereact-dev-0f7c6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::139561979448:role/amplify-squidgamereact-dev-0f7c6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::139561979448:role/amplify-squidgamereact-dev-0f7c6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-squidgamereact-dev-0f7c6-deployment",
+      "UnauthRoleName": "amplify-squidgamereact-dev-0f7c6-unauthRole",
+      "StackName": "amplify-squidgamereact-dev-0f7c6",
+      "StackId": "arn:aws:cloudformation:us-east-1:139561979448:stack/amplify-squidgamereact-dev-0f7c6/5d01c400-5b30-11f0-bbbf-0affdb595af5",
+      "AmplifyAppId": "d3spfeo0ns4u1j",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-squidgamereact-dev-0f7c6-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "squidgamereact8b55ae03": {}
+      },
+      "function": {
+        "squidgamereactb23be933": {
+          "deploymentBucketName": "amplify-squidgamereact-dev-0f7c6-deployment",
+          "s3Key": "amplify-builds/squidgamereactb23be933-67414e70304c77483444-build.zip"
+        }
+      },
+      "api": {
+        "squidgameapi": {}
+      },
+      "storage": {
+        "squidgamedata": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
